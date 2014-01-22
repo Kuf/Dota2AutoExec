@@ -2,7 +2,7 @@
 {
 	"VendorID"		"4318"
 	"DeviceID"		"4540"
-	"setting.fullscreen"		"0"
+	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
 	"setting.aspectratiomode"		"1"
 	"setting.mat_vsync"		"1"
